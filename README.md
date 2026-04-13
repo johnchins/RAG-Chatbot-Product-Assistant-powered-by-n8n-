@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Executive Summary (Recruiter Optimized)
+## 🚀 Executive Summary
 
 This project demonstrates a fully orchestrated AI knowledge system using RAG architecture.
 
